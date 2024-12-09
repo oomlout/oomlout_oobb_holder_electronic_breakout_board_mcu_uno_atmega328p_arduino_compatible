@@ -1,0 +1,7 @@
+project_id: oomlout_oobb_holder_electronic_breakout_board_mcu_uno_atmega328p_arduino_compatible
+project_name: Oomlout Oobb Holder Electronic Breakout Board Mcu Uno Atmega328P Arduino
+  Compatible
+project_repo: https://github.com/oomlout/oomlout_oobb_holder_electronic_breakout_board_mcu_uno_atmega328p_arduino_compatible
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
