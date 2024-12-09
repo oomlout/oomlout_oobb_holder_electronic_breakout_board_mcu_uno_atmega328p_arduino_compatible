@@ -1,0 +1,2481 @@
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: oobb_test_base_04_07_03_ex_uno_rev_3_atmega328p_arduino_compatible
+kwargs:
+  extra: uno_rev_3_atmega328p_arduino_compatible
+  height: 7
+  modes:
+  - 3dpr
+  overwrite: true
+  thickness: 3
+  type: test_base
+  width: 4
+name: base
+project_name: C:\gh\oomlout_oobb_holder_electronic_breakout_board_mcu_uno_atmega328p_arduino_compatible
+thing:
+  components:
+  - - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      height: 7
+      pos:
+      - 0
+      - 0
+      - 0
+      shape: rounded_rectangle
+      size:
+      - 59
+      - 104
+      - 3
+      type: positive
+      width: 4
+  - - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id001
+        - -22.5
+        - 45.0
+        - -100.0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id001
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id001
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id002
+        - -7.5
+        - 45.0
+        - -100.0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id002
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id002
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id003
+        - 7.5
+        - 45.0
+        - -100.0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id003
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id003
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id004
+        - 22.5
+        - 45.0
+        - -100.0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id004
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id004
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id005
+        - -22.5
+        - -45.0
+        - -100.0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id005
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id005
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id006
+        - -7.5
+        - -45.0
+        - -100.0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id006
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id006
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id007
+        - 7.5
+        - -45.0
+        - -100.0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id007
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id007
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id008
+        - 22.5
+        - -45.0
+        - -100.0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id008
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id008
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id009
+        - -22.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id009
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id009
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id010
+        - -15.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id010
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id010
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id011
+        - -7.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id011
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id011
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id012
+        - 0.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id012
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id012
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id013
+        - 7.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id013
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id013
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id014
+        - 15.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id014
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id014
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id015
+        - 22.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id015
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id015
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id016
+        - -22.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id016
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id016
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id017
+        - -15.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id017
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id017
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id018
+        - -7.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id018
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id018
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id019
+        - 0.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id019
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id019
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id020
+        - 7.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id020
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id020
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id021
+        - 15.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id021
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id021
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id022
+        - 22.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id022
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id022
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id023
+        - -22.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id023
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id023
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id024
+        - -15.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id024
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id024
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id025
+        - -7.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id025
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id025
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id026
+        - 0.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id026
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id026
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id027
+        - 7.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id027
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id027
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id028
+        - 15.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id028
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id028
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id029
+        - 22.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id029
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id029
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id030
+        - -22.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id030
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id030
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id031
+        - -15.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id031
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id031
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id032
+        - -7.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id032
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id032
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id033
+        - 0.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id033
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id033
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id034
+        - 7.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id034
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id034
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id035
+        - 15.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id035
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id035
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id036
+        - 22.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id036
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id036
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id037
+        - -22.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id037
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id037
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id038
+        - -15.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id038
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id038
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id039
+        - -7.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id039
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id039
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id040
+        - 0.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id040
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id040
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id041
+        - 7.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id041
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id041
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id042
+        - 15.0
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id042
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id042
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id043
+        - 22.5
+        - 45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id043
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id043
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id044
+        - -22.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id044
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id044
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id045
+        - -15.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id045
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id045
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id046
+        - -7.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id046
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id046
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id047
+        - 0.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id047
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id047
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id048
+        - 7.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id048
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id048
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id049
+        - 15.0
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id049
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id049
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - h: 200
+        inclusion: laser
+        m: ''
+        pos: &id050
+        - 22.5
+        - -45.0
+        - -100.0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 3dpr
+        m: ''
+        pos: *id050
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - h: 200
+        inclusion: 'true'
+        m: ''
+        pos: *id050
+        r: 1.5
+        shape: cylinder
+        type: negative
+  - - objects:
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.7
+          height: 7
+          inclusion: laser
+          pos:
+          - 0
+          - 0
+          - -1.7
+          r1: 1.5
+          r2: 2.4
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id051
+          - 0
+          - 0
+          - -6.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id051
+          r: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id051
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.9
+          height: 7
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -1.9
+          r1: 1.8
+          r2: 3.6
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id052
+          - 0
+          - 0
+          - -6.0
+          r: 1.8
+          radius: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id052
+          r: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id052
+          r: 1.8
+          radius: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.7
+          height: 7
+          inclusion: 'true'
+          pos:
+          - 0
+          - 0
+          - -1.7
+          r1: 1.5
+          r2: 2.9
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id053
+          - 0
+          - 0
+          - -6.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id053
+          r: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id053
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+      pos:
+      - -24.185
+      - 20.363
+      - 0
+      rot:
+      - 0
+      - 180
+      - 0
+      type: rotation
+      typetype: negative
+  - - objects:
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.7
+          height: 7
+          inclusion: laser
+          pos:
+          - 0
+          - 0
+          - -1.7
+          r1: 1.5
+          r2: 2.4
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id054
+          - 0
+          - 0
+          - -6.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id054
+          r: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id054
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.9
+          height: 7
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -1.9
+          r1: 1.8
+          r2: 3.6
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id055
+          - 0
+          - 0
+          - -6.0
+          r: 1.8
+          radius: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id055
+          r: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id055
+          r: 1.8
+          radius: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.7
+          height: 7
+          inclusion: 'true'
+          pos:
+          - 0
+          - 0
+          - -1.7
+          r1: 1.5
+          r2: 2.9
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id056
+          - 0
+          - 0
+          - -6.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id056
+          r: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id056
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+      pos:
+      - 24.181
+      - 19.091
+      - 0
+      rot:
+      - 0
+      - 180
+      - 0
+      type: rotation
+      typetype: negative
+  - - objects:
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.7
+          height: 7
+          inclusion: laser
+          pos:
+          - 0
+          - 0
+          - -1.7
+          r1: 1.5
+          r2: 2.4
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id057
+          - 0
+          - 0
+          - -6.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id057
+          r: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id057
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.9
+          height: 7
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -1.9
+          r1: 1.8
+          r2: 3.6
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id058
+          - 0
+          - 0
+          - -6.0
+          r: 1.8
+          radius: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id058
+          r: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id058
+          r: 1.8
+          radius: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.7
+          height: 7
+          inclusion: 'true'
+          pos:
+          - 0
+          - 0
+          - -1.7
+          r1: 1.5
+          r2: 2.9
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id059
+          - 0
+          - 0
+          - -6.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id059
+          r: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id059
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+      pos:
+      - -19.093
+      - -31.822
+      - 0
+      rot:
+      - 0
+      - 180
+      - 0
+      type: rotation
+      typetype: negative
+  - - objects:
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.7
+          height: 7
+          inclusion: laser
+          pos:
+          - 0
+          - 0
+          - -1.7
+          r1: 1.5
+          r2: 2.4
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id060
+          - 0
+          - 0
+          - -6.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id060
+          r: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id060
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.9
+          height: 7
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -1.9
+          r1: 1.8
+          r2: 3.6
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id061
+          - 0
+          - 0
+          - -6.0
+          r: 1.8
+          radius: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id061
+          r: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id061
+          r: 1.8
+          radius: 1.8
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 1.7
+          height: 7
+          inclusion: 'true'
+          pos:
+          - 0
+          - 0
+          - -1.7
+          r1: 1.5
+          r2: 2.9
+          shape: cylinder
+          type: positive
+          width: 4
+      - - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: laser
+          pos: &id062
+          - 0
+          - 0
+          - -6.0
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 3dpr
+          pos: *id062
+          r: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+        - depth: 6
+          extra: uno_rev_3_atmega328p_arduino_compatible
+          h: 6
+          height: 7
+          inclusion: 'true'
+          pos: *id062
+          r: 1.5
+          radius: 1.5
+          shape: cylinder
+          type: positive
+          width: 4
+      pos:
+      - 8.909
+      - -31.822
+      - 0
+      rot:
+      - 0
+      - 180
+      - 0
+      type: rotation
+      typetype: negative
+  - - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: laser
+      m: '#'
+      pos: &id063
+      - -24.185
+      - 20.363
+      - 6
+      r: 1.5
+      rot: &id064
+      - 0
+      - 180
+      - 0
+      shape: cylinder
+      type: negative_negative
+      width: 4
+    - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: 3dpr
+      m: '#'
+      pos: *id063
+      r: 1.8
+      rot: *id064
+      shape: cylinder
+      type: negative_negative
+      width: 4
+    - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: 'true'
+      m: '#'
+      pos: *id063
+      r: 1.5
+      rot: *id064
+      shape: cylinder
+      type: negative_negative
+      width: 4
+  - - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: laser
+      m: '#'
+      pos: &id065
+      - 24.181
+      - 19.091
+      - 6
+      r: 1.5
+      rot: &id066
+      - 0
+      - 180
+      - 0
+      shape: cylinder
+      type: negative_negative
+      width: 4
+    - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: 3dpr
+      m: '#'
+      pos: *id065
+      r: 1.8
+      rot: *id066
+      shape: cylinder
+      type: negative_negative
+      width: 4
+    - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: 'true'
+      m: '#'
+      pos: *id065
+      r: 1.5
+      rot: *id066
+      shape: cylinder
+      type: negative_negative
+      width: 4
+  - - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: laser
+      m: '#'
+      pos: &id067
+      - -19.093
+      - -31.822
+      - 6
+      r: 1.5
+      rot: &id068
+      - 0
+      - 180
+      - 0
+      shape: cylinder
+      type: negative_negative
+      width: 4
+    - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: 3dpr
+      m: '#'
+      pos: *id067
+      r: 1.8
+      rot: *id068
+      shape: cylinder
+      type: negative_negative
+      width: 4
+    - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: 'true'
+      m: '#'
+      pos: *id067
+      r: 1.5
+      rot: *id068
+      shape: cylinder
+      type: negative_negative
+      width: 4
+  - - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: laser
+      m: '#'
+      pos: &id069
+      - 8.909
+      - -31.822
+      - 6
+      r: 1.5
+      rot: &id070
+      - 0
+      - 180
+      - 0
+      shape: cylinder
+      type: negative_negative
+      width: 4
+    - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: 3dpr
+      m: '#'
+      pos: *id069
+      r: 1.8
+      rot: *id070
+      shape: cylinder
+      type: negative_negative
+      width: 4
+    - depth: 6
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 6
+      height: 7
+      inclusion: 'true'
+      m: '#'
+      pos: *id069
+      r: 1.5
+      rot: *id070
+      shape: cylinder
+      type: negative_negative
+      width: 4
+  - - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: laser
+      pos: &id071
+      - -24.185
+      - 20.363
+      - 3.0
+      r: 3.0
+      radius: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+    - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: 3dpr
+      pos: *id071
+      r: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+    - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: 'true'
+      pos: *id071
+      r: 3.0
+      radius: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+  - - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: laser
+      pos: &id072
+      - 24.181
+      - 19.091
+      - 3.0
+      r: 3.0
+      radius: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+    - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: 3dpr
+      pos: *id072
+      r: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+    - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: 'true'
+      pos: *id072
+      r: 3.0
+      radius: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+  - - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: laser
+      pos: &id073
+      - -19.093
+      - -31.822
+      - 3.0
+      r: 3.0
+      radius: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+    - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: 3dpr
+      pos: *id073
+      r: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+    - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: 'true'
+      pos: *id073
+      r: 3.0
+      radius: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+  - - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: laser
+      pos: &id074
+      - 8.909
+      - -31.822
+      - 3.0
+      r: 3.0
+      radius: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+    - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: 3dpr
+      pos: *id074
+      r: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+    - depth: 3
+      extra: uno_rev_3_atmega328p_arduino_compatible
+      h: 3
+      height: 7
+      inclusion: 'true'
+      pos: *id074
+      r: 3.0
+      radius: 3.0
+      shape: cylinder
+      type: positive_positive
+      width: 4
+  components_objects:
+  - depth: 3
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shape: oobb_plate
+    thickness: 3
+    type: p
+    width: 4
+  - both_holes: true
+    depth: 3
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes:
+    - left
+    - right
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shape: oobb_holes
+    thickness: 3
+    type: p
+    width: 4
+  - depth: 6
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes: mounting
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - -24.185
+    - 20.363
+    - 0
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    save_type: none
+    shape: oobb_screw_countersunk
+    thickness: 3
+    type: negative
+    width: 4
+    zz: top
+  - depth: 6
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes: mounting
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 24.181
+    - 19.091
+    - 0
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    save_type: none
+    shape: oobb_screw_countersunk
+    thickness: 3
+    type: negative
+    width: 4
+    zz: top
+  - depth: 6
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes: mounting
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - -19.093
+    - -31.822
+    - 0
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    save_type: none
+    shape: oobb_screw_countersunk
+    thickness: 3
+    type: negative
+    width: 4
+    zz: top
+  - depth: 6
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes: mounting
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 8.909
+    - -31.822
+    - 0
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    save_type: none
+    shape: oobb_screw_countersunk
+    thickness: 3
+    type: negative
+    width: 4
+    zz: top
+  - depth: 6
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes: mounting
+    m: '#'
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - -24.185
+    - 20.363
+    - 6
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    save_type: none
+    shape: oobb_hole
+    thickness: 3
+    type: negative_negative
+    width: 4
+    zz: top
+  - depth: 6
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes: mounting
+    m: '#'
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 24.181
+    - 19.091
+    - 6
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    save_type: none
+    shape: oobb_hole
+    thickness: 3
+    type: negative_negative
+    width: 4
+    zz: top
+  - depth: 6
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes: mounting
+    m: '#'
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - -19.093
+    - -31.822
+    - 6
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    save_type: none
+    shape: oobb_hole
+    thickness: 3
+    type: negative_negative
+    width: 4
+    zz: top
+  - depth: 6
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    holes: mounting
+    m: '#'
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 8.909
+    - -31.822
+    - 6
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    save_type: none
+    shape: oobb_hole
+    thickness: 3
+    type: negative_negative
+    width: 4
+    zz: top
+  - depth: 3
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - -24.185
+    - 20.363
+    - 4.5
+    radius: 3.0
+    save_type: none
+    shape: oobb_cylinder
+    thickness: 3
+    type: positive_positive
+    width: 4
+  - depth: 3
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 24.181
+    - 19.091
+    - 4.5
+    radius: 3.0
+    save_type: none
+    shape: oobb_cylinder
+    thickness: 3
+    type: positive_positive
+    width: 4
+  - depth: 3
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - -19.093
+    - -31.822
+    - 4.5
+    radius: 3.0
+    save_type: none
+    shape: oobb_cylinder
+    thickness: 3
+    type: positive_positive
+    width: 4
+  - depth: 3
+    extra: uno_rev_3_atmega328p_arduino_compatible
+    height: 7
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 8.909
+    - -31.822
+    - 4.5
+    radius: 3.0
+    save_type: none
+    shape: oobb_cylinder
+    thickness: 3
+    type: positive_positive
+    width: 4
+  components_string:
+  - oobb_plate_shape_p_type_3_depth_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra
+  - oobb_holes_shape_p_type_3_depth_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_true_both_holes_'left'_'right'_holes
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_6_depth_-24.185_20.363_0_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_mounting_holes_0_180_0_rot_top_zz
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_6_depth_24.181_19.091_0_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_mounting_holes_0_180_0_rot_top_zz
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_6_depth_-19.093_-31.822_0_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_mounting_holes_0_180_0_rot_top_zz
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_6_depth_8.909_-31.822_0_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_mounting_holes_0_180_0_rot_top_zz
+  - oobb_hole_shape_negative_negative_type_m3_radius_name_6_depth_-24.185_20.363_6_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_mounting_holes_0_180_0_rot_top_zz
+  - oobb_hole_shape_negative_negative_type_m3_radius_name_6_depth_24.181_19.091_6_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_mounting_holes_0_180_0_rot_top_zz
+  - oobb_hole_shape_negative_negative_type_m3_radius_name_6_depth_-19.093_-31.822_6_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_mounting_holes_0_180_0_rot_top_zz
+  - oobb_hole_shape_negative_negative_type_m3_radius_name_6_depth_8.909_-31.822_6_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_mounting_holes_0_180_0_rot_top_zz
+  - oobb_cylinder_shape_positive_positive_type_3_depth_-24.185_20.363_4.5_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_3.0_radius
+  - oobb_cylinder_shape_positive_positive_type_3_depth_24.181_19.091_4.5_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_3.0_radius
+  - oobb_cylinder_shape_positive_positive_type_3_depth_-19.093_-31.822_4.5_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_3.0_radius
+  - oobb_cylinder_shape_positive_positive_type_3_depth_8.909_-31.822_4.5_pos_none_save_type_true_overwrite_'3dpr'_modes_4_width_7_height_3_thickness_uno_rev_3_atmega328p_arduino_compatible_extra_3.0_radius
+  description: test base 4x7x3
+  extra: uno_rev_3_atmega328p_arduino_compatible
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\thigns\oobb_test_base_04_07_03_ex_uno_rev_3_atmega328p_arduino_compatible
+  height: 7
+  height_mm: 104
+  id: oobb_test_base_04_07_03_ex_uno_rev_3_atmega328p_arduino_compatible
+  thickness: 3
+  thickness_mm: 3
+  type: test_base
+  width: 4
+  width_mm: 59
